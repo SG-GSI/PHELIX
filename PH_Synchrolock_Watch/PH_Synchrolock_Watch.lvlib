@@ -17,7 +17,6 @@
 		<Item Name="PH_Synchrolock_Watch.PC Get data.vi" Type="VI" URL="../PH_Synchrolock_Watch.PC Get data.vi"/>
 		<Item Name="PH_Synchrolock_Watch.PC Reset Mira Warning.vi" Type="VI" URL="../PH_Synchrolock_Watch.PC Reset Mira Warning.vi"/>
 		<Item Name="PH_Synchrolock_Watch.PC Set Limit.vi" Type="VI" URL="../PH_Synchrolock_Watch.PC Set Limit.vi"/>
-		<Item Name="PH_Synchrolock_Watch.PC Set Waveform End.vi" Type="VI" URL="../PH_Synchrolock_Watch.PC Set Waveform End.vi"/>
 		<Item Name="PH_Synchrolock_Watch.PC Write PSDB.vi" Type="VI" URL="../PH_Synchrolock_Watch.PC Write PSDB.vi"/>
 		<Item Name="PH_Synchrolock_Watch.ProcEvents.vi" Type="VI" URL="../PH_Synchrolock_Watch.ProcEvents.vi"/>
 		<Item Name="PH_Synchrolock_Watch.initialize GUI.vi" Type="VI" URL="../PH_Synchrolock_Watch.initialize GUI.vi"/>
@@ -38,7 +37,6 @@
 		<Item Name="PH_Synchrolock_Watch.destructor.vi" Type="VI" URL="../PH_Synchrolock_Watch.destructor.vi"/>
 		<Item Name="PH_Synchrolock_Watch.evt call Reset Mira Warning.vi" Type="VI" URL="../PH_Synchrolock_Watch.evt call Reset Mira Warning.vi"/>
 		<Item Name="PH_Synchrolock_Watch.evt call Set Limit.vi" Type="VI" URL="../PH_Synchrolock_Watch.evt call Set Limit.vi"/>
-		<Item Name="PH_Synchrolock_Watch.evt call Set Waveform End.vi" Type="VI" URL="../PH_Synchrolock_Watch.evt call Set Waveform End.vi"/>
 		<Item Name="PH_Synchrolock_Watch.get data to modify.vi" Type="VI" URL="../PH_Synchrolock_Watch.get data to modify.vi"/>
 		<Item Name="PH_Synchrolock_Watch.Limit to set.ctl" Type="VI" URL="../PH_Synchrolock_Watch.Limit to set.ctl"/>
 		<Item Name="PH_Synchrolock_Watch.set modified data.vi" Type="VI" URL="../PH_Synchrolock_Watch.set modified data.vi"/>
